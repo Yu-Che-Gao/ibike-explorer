@@ -1,0 +1,10 @@
+{
+  "name": "ibike-server",
+  "version": "0.0.0",
+  "description": "ibike-server",
+  "main": "app.js",
+  "author": {
+    "name": "USER",
+    "email": ""
+  }
+}
