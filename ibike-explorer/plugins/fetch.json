@@ -1,0 +1,28 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-add-swift-support": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/akofman/cordova-plugin-add-swift-support",
+            "subdir": "."
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-websocket": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/knowledgecode/WebSocket-for-Android",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
